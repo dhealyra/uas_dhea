@@ -1,0 +1,29 @@
+body {
+    background-color: #e8f5e9;
+  }
+  .card {
+    border: 2px solid #388e3c; 
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  .card-header, .list-group-item {
+    font-weight: bold;
+    color: #1b5e20;
+  }
+  h4{
+    color: #2e7d32; 
+  }
+  .list-group-item {
+    color: #1b5e20;
+  }
+  .card-footer{
+    background-color: #1b5e20;
+    color: white;
+  }
+  .list-group-item {
+    border-color: #28a745;
+  }
+  .container{
+    position: relative;
+    top: 100px;
+  }
